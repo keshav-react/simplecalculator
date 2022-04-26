@@ -28,7 +28,7 @@ import android.view.*;
   
 
 	/*
-	 * Edit The Text and The Button object initialization for simple calculator design.
+	 * Edit The Text and The Button object provides initialization for simple calculator design.
 	 */
 	private EditText txtCalc = null;
 	private Button btnZero = null;
